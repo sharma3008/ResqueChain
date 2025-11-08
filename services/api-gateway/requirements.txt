@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+requests
+PyJWT[crypto]
+kafka-python
+prometheus_client
